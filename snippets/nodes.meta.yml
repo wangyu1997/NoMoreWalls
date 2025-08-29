@@ -637,14 +637,6 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: Telegram:@config_proxy 💦
-  password: 4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1
-  port: 48141
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
 - name: v2raybluecrystal2
   obfs: salamander
   obfs-password: v2raybluecrystal
