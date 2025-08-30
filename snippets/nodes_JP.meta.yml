@@ -55,6 +55,14 @@ proxies:
   sni: rb.dimoyun.top
   tls: false
   type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇯🇵'
+  password: a59be66d-1e59-40ea-b378-ceecd80c3337
+  port: 443
+  server: 45.11.1.62
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: 🇯🇵日本东京
   password: b866d83a-d301-4270-b699-40f322bf52fb
   port: 443

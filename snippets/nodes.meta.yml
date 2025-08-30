@@ -328,6 +328,15 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: 9363eedf-00e9-4b14-8d66-e596b02538bc
+  port: 33079
+  server: 195.133.5.41
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: HK
   password: Cyi3TPih9FtQRwsZAh8aT6ynGJk
   port: 2166
@@ -428,6 +437,14 @@ proxies:
   server: 192.9.165.40
   skip-cert-verify: true
   sni: cn.cremedelamer.com
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇯🇵'
+  password: a59be66d-1e59-40ea-b378-ceecd80c3337
+  port: 443
+  server: 45.11.1.62
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: '新加坡 #2'
@@ -586,6 +603,16 @@ proxies:
   server: 54.199.157.111
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '@Mr_Config_Group✌️'
+  obfs: salamander
+  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
+  password: 10822856-7452-43ec-b35b-6f24ea33530f
+  port: 29662
+  server: chervhill.hajalii.com
+  skip-cert-verify: false
+  sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
 - name: '@V2rayNG3'

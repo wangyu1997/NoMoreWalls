@@ -31,6 +31,15 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
+- name: 'Channel id: @ShadowProxy66🇺🇸 #2'
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: 9363eedf-00e9-4b14-8d66-e596b02538bc
+  port: 33079
+  server: 195.133.5.41
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: US
   password: HfK3UK4MoXxYUccnp7qzx3Y3o
   port: 34321
