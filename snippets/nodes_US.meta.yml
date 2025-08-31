@@ -81,7 +81,7 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: '🇺🇲@FreakConfig #1'
+- name: 🇺🇲@FreakConfig
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
