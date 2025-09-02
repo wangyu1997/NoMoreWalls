@@ -485,7 +485,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇯🇵 #1'
+- name: 'Channel id: @proxy_kafee🇯🇵 #1'
   password: fabd2b79-693a-4a37-827c-6d299e8813b1
   port: 443
   server: 133.18.163.202
@@ -690,15 +690,6 @@ proxies:
   sni: all-v4.dgi000.store
   tls: false
   type: hysteria2
-- name: t.me/NasaV2|🇫🇮
-  obfs: salamander
-  obfs-password: r3fe@$WGefweqf
-  password: AOzO2rBKFB
-  port: 14825
-  server: 46.62.129.200
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3 #5'
   obfs: salamander
   obfs-password: bipbip
@@ -791,7 +782,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #7'
+- name: 🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -842,7 +833,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #8'
+- name: '𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2rayTun0'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -860,7 +851,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #9'
+- name: '@Daily_Configs #7'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -876,14 +867,6 @@ proxies:
   server: 62.60.231.189
   skip-cert-verify: true
   sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 28YB5qK!5t#U&insecure=1&sni=ww...
-  obfs: salamander
-  obfs-password: '&O'
-  password: freehomesvpnmahsa3
-  port: 16396
-  server: donate1.mahsa.homes
   tls: false
   type: hysteria2
 - name: '🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها دانل... #2'
