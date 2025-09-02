@@ -1,17 +1,11 @@
 proxies:
-- name: 🇩🇪@FreakConfig
-  password: 45b46edb-679b-4ea5-befd-88c05bb94f80
-  port: 2056
-  server: de.eyucdn.xyz
-  skip-cert-verify: true
-  sni: de.eyucdn.xyz
+- alterId: 0
+  cipher: auto
+  name: 庆祝世界反法西斯战争胜利80周年！
+  network: tcp
+  port: '3'
+  server: 0.0.0.0
+  servername: web.51.la
   tls: false
-  type: hysteria2
-- name: '🎿 #1'
-  password: dongtaiwang.com
-  port: 5355
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
