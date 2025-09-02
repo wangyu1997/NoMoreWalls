@@ -1,5 +1,5 @@
 proxies:
-- name: RU_speednode_0011
+- name: RU_speednode_0022
   network: ws
   password: slch2024
   port: 2096
