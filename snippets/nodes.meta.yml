@@ -327,6 +327,14 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '@vpnserverrr👈🏻'
+  password: c9edf5cb-67ef-4440-8684-b3d301df6488
+  port: 21053
+  server: yue-ru.yuetoto.net
+  skip-cert-verify: false
+  sni: yue-ru.yuetoto.net
+  tls: false
+  type: hysteria2
 - name: 🇺🇲@FreakConfig
   password: dongtaiwang.com
   port: 63015
