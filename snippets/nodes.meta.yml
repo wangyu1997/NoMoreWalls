@@ -155,7 +155,7 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: 🎿
+- name: WI-FI--@IRAN_V2RAY1
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3
@@ -353,7 +353,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '🎿 #1'
+- name: '🇨🇵@FreakConfig #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -361,7 +361,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #7'
+- name: '@Daily_Configs #8'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
