@@ -89,16 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '@Mr_Config_Group✌️'
-  obfs: salamander
-  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
-  password: 10822856-7452-43ec-b35b-6f24ea33530f
-  port: 29662
-  server: chervhill.hajalii.com
-  skip-cert-verify: false
-  sni: chervhill.hajalii.com
-  tls: false
-  type: hysteria2
 - name: → @Hddify
   password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
   port: 43429
