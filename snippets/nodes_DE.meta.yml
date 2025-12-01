@@ -1,4 +1,13 @@
 proxies:
+- name: '🇳🇱 - NL - @freeOnlineVPN #5'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: dir.cybsecguru.com
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #1'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
@@ -79,7 +88,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #4'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #9'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: EKLeRwhlYy
@@ -119,7 +128,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #13'
+- name: '🇩🇪 - DE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: RZjK7qHG15
