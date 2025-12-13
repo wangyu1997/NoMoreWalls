@@ -345,14 +345,6 @@ proxies:
   sni: apps.apple.com
   tls: false
   type: hysteria2
-- name: ⚛️6@oneclickvpnkeys
-  password: 7f1744fb-e014-43e9-ab39-1dca96f5e604
-  port: 443
-  server: 5.180.30.16
-  skip-cert-verify: true
-  sni: api.push.apple.com
-  tls: false
-  type: hysteria2
 - name: 🇭🇰HK
   password: 84123645-b62d-4a3b-bd74-d58ea4023c65
   port: 44507
@@ -476,7 +468,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: WiFi-@V2ray_Alpha--1
+- name: '🇳🇱 - NL - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -537,7 +529,7 @@ proxies:
   sni: 97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com
   tls: false
   type: hysteria2
-- name: All-@V2rayAlpha--7
+- name: '🇳🇱 - NL - @freeOnlineVPN #6'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -557,7 +549,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: All--@V2rayAlpha-0
+- name: telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -1271,7 +1263,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #9'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: GsM2gHXMdz
@@ -1321,7 +1313,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #3'
+- name: '🇩🇪 - DE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: TA524PW3Hg
@@ -1391,7 +1383,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #2'
+- name: '🇳🇱 - NL - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1633,14 +1625,6 @@ proxies:
   server: 9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com
   skip-cert-verify: false
   sni: 9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: '@sunflowerplato🌻 #1'
-  password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
-  port: 30000
-  server: de3.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: '✅سرورهایبیشتردرکانال:prrofile_... #1'
