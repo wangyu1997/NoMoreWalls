@@ -163,54 +163,6 @@ proxies:
   sni: xuipanel.akgoldvip.shop
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  - http/1.1
-  - h2
-  fingerprint: chrome
-  name: '@GozargahAzad|🇺🇸'
-  obfs: salamander
-  obfs-password: dlxmzvxvcp3i6v0e
-  password: 5z15av99psrlhdqp
-  port: 39150
-  server: 32.195.51.20
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  - http/1.1
-  - h2
-  fingerprint: chrome
-  name: 🇺🇸59409 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: dlxmzvxvcp3i6v0e
-  password: 5z15av99psrlhdqp
-  port: 39150
-  server: 32.195.51.20
-  sni: 32.195.51.20
-  tls: false
-  type: hysteria2
-- name: '@filembad'
-  obfs: salamander
-  obfs-password: dlxmzvxvcp3i6v0e
-  password: 5z15av99psrlhdqp
-  port: 39150
-  server: 32.195.51.20
-  skip-cert-verify: false
-  sni: 32.195.51.20
-  tls: false
-  type: hysteria2
-- name: برای اتصال دائمی جوین شو🏵 Tele...
-  obfs: salamander
-  obfs-password: Express_freevpn
-  password: '@Express_freevpn'
-  port: 54040
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: Masir_Sefid
@@ -281,7 +233,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: ⚡@V2ray_official
+- name: '@mehrosaboran #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -291,17 +243,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #1'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 444
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '⚡@V2ray_official #2'
+- name: '@mehrosaboran #5'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -341,17 +283,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮59347 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: kpj8ac1gwtzdfclh
-  password: elczfe1nt42amtjf
-  port: 42641
-  server: markazi.kidshop.dpdns.org
-  sni: markazi.kidshop.dpdns.org
-  tls: false
-  type: hysteria2
 - name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
@@ -381,14 +312,12 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@vmesskhodam'
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: hy2.aspidnet.xyz
-  skip-cert-verify: false
-  sni: hy2.aspidnet.xyz
+- name: 🪭63@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
