@@ -153,16 +153,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@mehrosaboran'
-  obfs: salamander
-  obfs-password: https://speed.cloudflare.com
-  password: 0xver2tkqad4kvr4
-  port: 443
-  server: 134.122.86.55
-  skip-cert-verify: false
-  sni: xuipanel.akgoldvip.shop
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: Masir_Sefid
@@ -233,7 +223,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: '@mehrosaboran #4'
+- name: '@confiig_hub #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -243,7 +233,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@mehrosaboran #5'
+- name: '@confiig_hub #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
