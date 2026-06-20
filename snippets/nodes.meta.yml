@@ -160,7 +160,16 @@ proxies:
   sni: de1.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: ✈️30@oneclickvpnkeys
+- name: '@mehrosaboran'
+  obfs: salamander
+  obfs-password: lmzo7ebpr6m8theh
+  password: 3xkqzhpnfhaahx0q
+  port: 5426
+  server: atts5vkx96ec.dxdx5.com
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: ✈️30@NetFlowTools
   password: 940f51d6-e0a4-4add-b96b-328e4a84b642
   port: 51000
   server: 140.245.27.220
@@ -208,6 +217,15 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
+- name: 🇨🇦@V2RayyNGvpn🇨🇦
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: V2RayyNGvpn
+  port: 80
+  server: 66.92.161.94
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -216,6 +234,15 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 🇩🇪@V2RayyNGvpn 🇩🇪
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: a2d6ZPXIID
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@KAFING_2 #2'
@@ -228,7 +255,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: ✈️17@oneclickvpnkeys
+- name: ✈️17@NetFlowTools
   password: be7441a663ef465566e3a6e441a16357
   port: 7443
   server: 188.225.80.130
@@ -236,14 +263,24 @@ proxies:
   sni: tw-vds.t1n2.com
   tls: false
   type: hysteria2
-- name: ✈️25@oneclickvpnkeys
+- name: ✈️25@NetFlowTools
   password: c6b2924e-a913-4864-a910-b446b9841b4b
   port: 443
   server: connect-ger2.gadmap.online
   sni: connect-ger2.gadmap.online
   tls: false
   type: hysteria2
-- name: ✈️95@oneclickvpnkeys
+- name: '🇨🇦@V2RayyNGvpn🇨🇦 #1'
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: kjMoXj9ZxP
+  port: 443
+  server: 66.92.161.94
+  skip-cert-verify: true
+  sni: www.wordreference.com
+  tls: false
+  type: hysteria2
+- name: ✈️95@NetFlowTools
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: lak374gtxzrxz241
@@ -262,14 +299,14 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: ✈️5@oneclickvpnkeys
+- name: ✈️5@NetFlowTools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 3.66.236.81
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: ✈️11@oneclickvpnkeys
+- name: ✈️11@NetFlowTools
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 3.79.47.137
@@ -291,6 +328,16 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
+  tls: false
+  type: hysteria2
+- name: 🇵🇱@V2RayyNGvpn🇵🇱
+  obfs: salamander
+  obfs-password: T$me$V2RayyNGvpn@V2RayyNGvpn
+  password: wundefinedg2dqmQqM
+  port: 443
+  server: 82.47.63.181
+  skip-cert-verify: true
+  sni: www.wordreference.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
