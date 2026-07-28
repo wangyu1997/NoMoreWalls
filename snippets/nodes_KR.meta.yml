@@ -1,7 +1,8 @@
 proxies:
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: KR_speednode_0005
+  name: KR_speednode_0001
+  network: tcp
   packet-encoding: xudp
   port: 443
   reality-opts:
@@ -16,7 +17,8 @@ proxies:
   uuid: f75814f6-8f81-4847-b792-168c41f2dc85
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: KR_speednode_0006
+  name: KR_speednode_0002
+  network: tcp
   port: 443
   reality-opts:
     public-key: EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4
