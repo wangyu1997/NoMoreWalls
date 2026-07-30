@@ -97,13 +97,13 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '@KAFING_2'
+- name: 'کانال تلگرام : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 181.214.99.162
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
@@ -134,17 +134,7 @@ proxies:
   sni: apic.dnso.ccwu.cc
   tls: false
   type: hysteria2
-- name: '🇺🇸125599 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: bjmye80g9o99qohl
-  password: 1ecqm05bcdfcckq5
-  port: 59265
-  server: soskeynets.dnso.ccwu.cc
-  skip-cert-verify: true
-  sni: apic.dnso.ccwu.cc
-  tls: false
-  type: hysteria2
-- name: '@vmesskhodam'
+- name: '@erfanandroid'
   obfs: salamander
   obfs-password: iknjsvsjagi449mm
   password: 4z2oldt85p494bgb
@@ -164,7 +154,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Alpha_v2rayIP'
+- name: برای اتصال دائمی جوین شو🍘 Tele...
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
@@ -181,13 +171,6 @@ proxies:
   sni: ger.leontunel.ru
   tls: false
   type: hysteria2
-- name: 🇺🇸125595 | ⚡️Telegram = t.me/S...
-  password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
-  port: 443
-  server: soskeynets.spectrumproxy.shop
-  sni: usa1.spectrumproxy.shop
-  tls: false
-  type: hysteria2
 - name: 🐰52@oneclickvpnkeys
   password: 76713d07-5a6b-49c2-abd8-bc450a2fa7fc
   port: 443
@@ -195,7 +178,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: '@erfanandroid #1'
+- name: 𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 84eyebdtl3tcbssn
@@ -210,6 +193,16 @@ proxies:
   port: 8443
   server: 76.164.202.214
   sni: mercedes-grape.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: پرسرعت ⚡
+  obfs: salamander
+  obfs-password: 4b6gmo4jujpapx99
+  password: AstroVPN_official
+  port: 8083
+  server: hystry.accuratenetworkchecker.ir
+  skip-cert-verify: false
+  sni: vhd.nth.gelzaro.ir
   tls: false
   type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
@@ -273,14 +266,36 @@ proxies:
   sni: fin1.apexvpn.space
   tls: false
   type: hysteria2
-- name: '@KAFING_2 #2'
+- name: 'کانال تلگرام : Free_VPN_CH@ #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 5.175.249.174
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 'کانال تلگرام : Free_VPN_CH@ #1'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'کانال تلگرام : Free_VPN_CH@ #3'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
+  sni: api.kermanshahi.org@freenettir
   tls: false
   type: hysteria2
 - name: 🇩🇪 t- me - V2RayyNGvpn 🇩🇪
@@ -307,7 +322,7 @@ proxies:
   sni: 2.59.163.171.nip.io
   tls: false
   type: hysteria2
-- name: '@Napsternetvirani #1'
+- name: '@Napsternetvirani'
   password: e04a51d1-0450-4919-b924-bd08501934bf
   port: 443
   server: 80.66.78.105
@@ -332,7 +347,7 @@ proxies:
   sni: azer-tea-grape.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 'mtmvpn : telegram 5'
+- name: '@bored_vpn'
   obfs: salamander
   obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
   password: hy2_czaawdhc
@@ -350,24 +365,6 @@ proxies:
   sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: 📯58@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 8zzng75tz4tf82pj
-  password: o3774es6cfv74kaf
-  port: 8443
-  server: 2.26.97.21
-  sni: musicclips.videolinks.ru
-  tls: false
-  type: hysteria2
-- name: 📯70@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: 8zzng75tz4tf82pj
-  password: o3774es6cfv74kaf
-  port: 8443
-  server: musicclips.videolinks.ru
-  sni: musicclips.videolinks.ru
-  tls: false
-  type: hysteria2
 - name: '@Selinc'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -378,7 +375,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: Proxy_mtm Channel 27
+- name: 🇳🇱126129 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -417,13 +414,6 @@ proxies:
   sni: ro.h2corp.org
   tls: false
   type: hysteria2
-- name: 📯41@oneclickvpnkeys
-  password: velluto_8325804083
-  port: 443
-  server: 31.76.30.79
-  sni: gretacoin.shop
-  tls: false
-  type: hysteria2
 - name: MTMVPN Channel 15
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
@@ -453,47 +443,47 @@ proxies:
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
   port: 13118
-  server: 16.162.55.106
+  server: 43.199.32.78
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 27161
-  server: 54.46.75.237
+  port: 11035
+  server: 18.163.122.92
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 11035
-  server: 16.162.34.239
+  port: 27161
+  server: 16.163.138.98
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 45691
-  server: 18.163.208.174
+  port: 41421
+  server: 54.46.46.228
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 日本2|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
-  port: 38937
-  server: 18.163.111.105
+  port: 40138
+  server: 43.199.32.78
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 日本3|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
-  port: 4099
-  server: 18.167.12.183
+  port: 38937
+  server: 18.181.205.36
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -501,36 +491,35 @@ proxies:
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
   port: 6357
-  server: 16.162.55.106
+  server: 43.199.32.78
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡2|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
-  port: 6357
-  server: 57.183.19.130
+  port: 48738
+  server: 43.199.32.78
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 45744
-  server: 18.166.236.71
+  port: 32434
+  server: 43.198.12.180
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
-- name: 美国|@ripaojiedian
+- name: 美国2|@ripaojiedian
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
-  port: 17005
-  server: 54.46.50.201
+  port: 49277
+  server: 18.181.205.36
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 美国2|@ripaojiedian
-  network: tcp
+- name: 🇺🇸 美国2|@ripaojiedian
   password: d1960ba9f0f6353353994fa844cf817b
   port: 49277
   server: 57.183.19.130
@@ -540,8 +529,8 @@ proxies:
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 38961
-  server: 18.166.236.71
+  port: 15775
+  server: 54.46.46.228
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
