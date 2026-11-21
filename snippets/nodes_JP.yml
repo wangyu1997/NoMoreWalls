@@ -6,4 +6,3 @@ proxies:
   server: v2jp.k1.ssnss.live
   skip-cert-verify: true
   type: trojan
-  udp: true

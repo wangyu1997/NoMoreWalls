@@ -7,7 +7,6 @@ proxies:
   skip-cert-verify: true
   sni: ssl.fastly.com
   type: trojan
-  udp: true
 - name: 美国5|@ripaojiedian
   network: tcp
   password: Mitivpn
@@ -16,4 +15,3 @@ proxies:
   skip-cert-verify: true
   sni: ssl.fastly.com
   type: trojan
-  udp: true
